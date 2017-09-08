@@ -8,6 +8,7 @@ New amazing oneshot exploit
 ## Videos:
 * https://youtu.be/NjgqDfQcGKc
 * https://youtu.be/FkCyUVPk3qE
+* Harrowhold solo: https://www.youtube.com/watch?v=E7KZWWLUt-w
 ## FAQ:
 * What classes does this work on? all, just type the command and use any ability and it will turn into glitched BV, skills have to be ones I have manually mapped but most classes skills are supported
 * Help! I can't cast my normal skills anymore!? Simply type the command again to deactivate
